@@ -1,0 +1,2 @@
+require "sprockets_rails/railtie"
+
